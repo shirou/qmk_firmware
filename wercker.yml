@@ -1,5 +1,4 @@
-box: 
-  id: ymotongpoo/ergodox:v2
+box: ymotongpoo/ergodox:v2
 
 build:
   steps:
@@ -28,4 +27,3 @@ deploy:
         token: $GITHUB_TOKEN
         file: ergodox_ez.hex
         filename: ergodox_ez-$GITHUB_RELEASE_VERSION.hex
-  
