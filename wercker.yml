@@ -1,4 +1,4 @@
-box: ymotongpoo/ergodox:v2
+box: "ymotongpoo/ergodox:v2"
 
 build:
   steps:
